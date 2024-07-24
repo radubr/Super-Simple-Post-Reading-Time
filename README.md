@@ -1,5 +1,5 @@
 # Super Simple Post Reading Time
-A simple WordPress plugin that adds the estimated reading time to the top of every post.
+A simple WordPress plugin that adds the estimated reading time of a post. It shows next to the published date of every blog post.
 
 ## How it looks like?
 [Online example](https://radubraniscan.com/super-simple-post-reading-time-a-wordpress-plugin/)
