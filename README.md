@@ -10,4 +10,5 @@ A simple WordPress plugin that adds the estimated reading time of a post. It sho
 3. Select the zip archive
 4. Click on Install now
 5. Activate Plugin
+
 Enjoy!
